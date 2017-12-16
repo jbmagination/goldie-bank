@@ -5,10 +5,6 @@ So, [this all began on a Discord I was in,](https://discord.io/lighthouse) and s
 
 # Instructions
 
-1) install the bot [here](https://discordapp.com/oauth2/authorize?client_id=391447333772197888&permissions=71680&scope=bot)
-2) go into Server Settings
-3) click on Roles
-4) click on Goldie Bank
-5) add the Administrator permission
-6) say the quote
-7) you just made him rich
+1) install the bot [here](https://discordapp.com/oauth2/authorize?client_id=391447333772197888&scope=bot&permissions=72712)
+2) say the quote
+3) you just made him rich
