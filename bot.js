@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'That's a floating tree... Did you guys just turn off gravity or something?') {
-    	message.reply(‘```Congratulations! @Goldminer127#6374 now has $2 more in his bank account.’);
+    	message.reply(‘Congratulations! @Goldminer127#6374 now has $2 more in his bank account.’);
   	}
 });
 
