@@ -1,3 +1,4 @@
+[![David-DM Status](https://david-dm.org/jbmagination/goldie-bank.svg)](https://david-dm.org/jbmagination/goldie-bank) [![Travis-CI Status](https://travis-ci.org/jbmagination/goldie-bank.svg?branch=master)](https://travis-ci.org/jbmagination/goldie-bank)
 # Goldie Bank
 A Discord bot to make @Goldminer127#6374 rich
 
