@@ -1,1 +1,6 @@
-language: node_js
+{
+  "language": "node_js",
+  "group": "stable",
+  "dist": "arch",
+  "os": "linux"
+}
